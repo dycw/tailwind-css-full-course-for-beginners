@@ -1,3 +1,3 @@
-# `template`
+# Tailwind CSS Full Course for Beginners (Dave Gray)
 
-Template for generic repositories
+https://www.youtube.com/watch?v=lCxcTsOHrjo
